@@ -1,0 +1,63 @@
+#:>Test
+- walidator;
+- loading speed;
+- crosbrausers;
+- adaptive;
+- link;
+- hover;
+- add more content for testing block;
+====================================================================================
+To do:
+d) передедать блоки с картинками телефонов на absolute;
+d) max-width 320px для блока 5;
+d) fokus для input;
+d) Fonts;
+d) Container;
+d) chek form input;
+d) chek on link;
+d) chek hovers;
+d) slider прокрутка без задержки;
+d) input ff;
+d) стили для input, btn блока signup_b;
+d) rating stars for watts;
+d) chenge icon in item-top on ../img;
+d) adaptive image screen-06;
+d) adpative top-lis;
+d) screen-07;
+d) footer;
+d) rating;
+************************************************************************************
+To fix:
+d) плавный скрол при нажатии up;
+d) popraw slider, bo momentami nie widać kilku pozycji i nagle doskakują znikąd;
+- при добавлении data-msg в form не отправляется форма;
+- po zmianie na jezyk polski app store wylatuje z bottona
+d) перенести все с header в index.html. Здесь нету header;
+d) icons у running a business не по центру текста;
+d) czarny buton - wyrównaj paddingi i zrób go przyjemniejszym dla oka;
+d) отступ у блока 07 на мобилке;
+d) стрелки для слайдера;
+d) zoom on fokus input;
+d) input placeholder by FLS;
+d) шрифт у watts value;
+d) rating stars "button" - not good;
+d) padding for textarea;
+d) popup if have err;
+d) popup close, не сбрасывает поле input;
+d) popup close, слишком быстро закрывается само;
+d) fonts not load on fls.guru;
+d) item-top__name brocken when add more text;
+d) watts__value brocken when add more text;
+d) walidator;
+d) appstore btn;
+d) вытянуть нижний край белого iphone: block-2;
+d) fonts;
+d) pierwsza sekcja nieczytelna;
+d) app store button nieczytelny + wyrownaj paddingi;
+d) input block-01;
+d) button notify for block-01, hover too;
+d) w 3 sekcji odsuń od siebie telefony i teksty, bo sie to zlewa;
+d) mobilka też nie powala, ujednolić te fonty, zrób ich wielkości przyjemne dla oka i czytelne
+d) slider na mobilce -> wg mnie trzeba zmniejszyc wielkosc pngów
+d) переделать hover;
+d) watt counter рано перескакивает в низ при добавлении текста;
