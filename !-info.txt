@@ -1,7 +1,9 @@
 #:>Test
-- walidator;
-- loading speed;
+d) walidator html;
+d) walidator css;
+- loading speed mobile = 72%;
 - crosbrausers;
+! IE11 - screen-05,
 - adaptive;
 - link;
 - hover;
@@ -28,10 +30,11 @@ d) footer;
 d) rating;
 ************************************************************************************
 To fix:
-d) плавный скрол при нажатии up;
-d) popraw slider, bo momentami nie widać kilku pozycji i nagle doskakują znikąd;
+- img compress;
 - при добавлении data-msg в form не отправляется форма;
 - po zmianie na jezyk polski app store wylatuje z bottona
+d) плавный скрол при нажатии up;
+d) popraw slider, bo momentami nie widać kilku pozycji i nagle doskakują znikąd;
 d) перенести все с header в index.html. Здесь нету header;
 d) icons у running a business не по центру текста;
 d) czarny buton - wyrównaj paddingi i zrób go przyjemniejszym dla oka;
