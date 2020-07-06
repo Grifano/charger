@@ -2,9 +2,9 @@
 d) walidator html;
 d) walidator css;
 - loading speed mobile = 72%;
-- crosbrausers;
-! IE11 - screen-05,
-- adaptive;
+!- crosbrausers;
+!:> IE11 - screen-05;
+d) adaptive;
 - link;
 - hover;
 - add more content for testing block;
