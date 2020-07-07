@@ -5,9 +5,9 @@ d) walidator css;
 !- crosbrausers;
 !:> IE11 - screen-05;
 d) adaptive;
-- link;
-- hover;
-- add more content for testing block;
+d) link;
+d) hover;
+d) add more content for testing block;
 ====================================================================================
 To do:
 d) передедать блоки с картинками телефонов на absolute;
